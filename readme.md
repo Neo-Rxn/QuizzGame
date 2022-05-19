@@ -1,7 +1,6 @@
 ## **Descripcion de GameQuiz:**
 
-GameQuizz es una aplicacion creada a partir del reto Tecnico de SOFKA como requisito de ingreso
-a las Training Leagues. El juego se desarrollo en el lenguaje de programación python tomando como
+GameQuizz es una aplicacion  desarrollada en el lenguaje de programación python tomando como
 punto de partida el documento Backlog y teniendo en cuenta sus respectivas historias de usuario. 
   
 La aplicacion se compone de 3 archivos:  
